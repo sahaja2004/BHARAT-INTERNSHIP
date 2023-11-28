@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    text: size adjust 100px;
+   }
+   
+   .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+   }
+   
+   header {
+    background-color:#B8E0D2 ;
+    padding: 20px;
+    text-align: center;
+    color:#000;
+   }
+   
+   header h1 {
+    margin: 0;
+   }
+   
+   header p {
+    margin: 0;
+   }
+   
+   .about {
+    padding: 80px;
+    background-color: #E2F0CB;
+    color:#221212;
+    text-align: center;
+   }
+   
+   .about img {
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 50%;
+   }
+   
+   .skills {
+    padding: 20px;
+    text-align: center;
+    background-color:#D9CCE1;
+    color: black;
+   }
+   
+   .skills h2 {
+    margin-bottom: 10px;
+   }
+   
+   .experiences {
+    padding: 20px;
+    background-color: #B3DFE2 ;
+    color:black;
+    text-align:center;
+   }
+   
+   .experiences .experience {
+    margin-bottom: 20px;
+   }
+   
+   .experiences .experience img {
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    border-radius: 50%;
+   }
+   
+   
+   
+   .contact {
+    padding: 20px;
+    text-align: center;
+    background-color:#D0BCE8;
+    color: black;
+   }
+   
+   footer {
+    
+    padding: 20px;
+    text-align: center;
+    background-color:#B8E0D2;
+    color: #000;
+   }
